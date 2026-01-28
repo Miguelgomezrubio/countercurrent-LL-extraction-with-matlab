@@ -51,7 +51,7 @@ Graphical visualization includes:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/LL-Countercurrent-Extraction.git
+git clone https://github.com/Miguelgomezrubio/LL-Countercurrent-Extraction.git
 ```
 
 2. Open MATLAB and run:
