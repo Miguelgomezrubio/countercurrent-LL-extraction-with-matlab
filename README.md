@@ -4,7 +4,7 @@ This repository contains a set of MATLAB functions for computing the number of e
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -15,7 +15,7 @@ This repository contains a set of MATLAB functions for computing the number of e
 
 ---
 
-## 🧩 Overview
+## Overview
 
 The model performs:
 
@@ -38,7 +38,7 @@ Graphical visualization includes:
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - MATLAB R2020a or newer (other versions may work)
 - Optimization Toolbox (for `fminbnd`)
