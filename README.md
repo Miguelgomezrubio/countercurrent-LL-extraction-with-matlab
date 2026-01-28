@@ -51,7 +51,7 @@ Graphical visualization includes:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Miguelgomezrubio/countercurrent-LL-extraction-with-matalb.git
+git clone https://github.com/Miguelgomezrubio/countercurrent-LL-extraction-with-matlab.git
 ```
 
 2. The user must specify the LL equilibrium data of the components, and the desired separation, as an example, the user can check:
