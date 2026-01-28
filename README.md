@@ -46,7 +46,7 @@ Graphical visualization includes:
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Clone the repository:
 
@@ -54,10 +54,10 @@ Graphical visualization includes:
 git clone https://github.com/Miguelgomezrubio/countercurrent-LL-extraction-with-matalb.git
 ```
 
-2. Open MATLAB and run:
+2. The user must specify the LL equilibrium data of the components, and the desired separation, as an example, the user can check:
 
 ```matlab
-main
+MAIN_countercurrentFlow_usage.m
 ```
 
 The script will:
@@ -68,7 +68,7 @@ The script will:
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 The solver returns the following variables:
 
@@ -88,7 +88,7 @@ Where:
 
 ---
 
-## 📐 Input Data Format
+## Input Data Format
 
 Equilibrium data must be provided as **mass fraction arrays**:
 
@@ -114,7 +114,7 @@ xSn  % desired solute mass fraction in final raffinate
 
 ---
 
-## 📈 Sensitivity Analysis
+## Sensitivity Analysis
 
 The `main.m` script also shows how to analyze:
 
@@ -133,7 +133,7 @@ end
 
 ---
 
-## 🛠 Modifying the Code
+## Modifying the Code
 
 You can customize:
 
@@ -146,7 +146,7 @@ These are located in `main.m` and `counterFlow_plot_function.m`.
 
 ---
 
-## 📚 Theoretical Context
+## Theoretical Context
 
 The implementation corresponds to graphical equilibrium stage methods commonly found in:
 
@@ -162,23 +162,15 @@ Key assumptions:
 
 ---
 
-## 📝 License
+##  License
 
-Specify your license here, e.g.:
 
 ```
 MIT License
 ```
 
----
 
-## 🧩 Contribution
 
-Contributions, bug reports, and improvements are welcome!  
-Feel free to open issues or submit pull requests.
-
----
-
-## 🤝 Contact
+## Contact
 
 If you use this code for academic work or research, attribution is appreciated.
