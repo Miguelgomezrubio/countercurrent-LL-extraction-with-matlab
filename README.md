@@ -88,6 +88,14 @@ Where:
 
 ---
 
+## Counter-current Diagram (PDF)
+
+You can open the process diagram directly from the repository here:
+
+- [`countercurrent_diagram.pdf`](./countercurrent_diagram.pdf)
+
+---
+
 ## Input Data Format
 
 Equilibrium data must be provided as **mass fraction arrays**:
